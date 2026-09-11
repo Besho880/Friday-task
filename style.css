@@ -27,10 +27,6 @@ body {
     font-size: x-large;
 }
 
-.pin {
-    margin-left: 320px;
-}
-
 .p1 {
     color: white;
     display: flex;
@@ -95,4 +91,5 @@ button {
     position: relative;
     left: 110px;
     bottom: -80px;
+    margin-left: 320px;
 }
